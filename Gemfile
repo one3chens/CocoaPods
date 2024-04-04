@@ -50,7 +50,7 @@ group :development do
   gem 'clintegracon'
 
   # Code Quality
-  gem 'inch_by_inch'
+  gem 'inch_by_inch', '>= 1.0.1'
   gem 'rubocop'
 
   gem 'danger'
